@@ -1,0 +1,16 @@
+code = [
+    {"code" : 0, "weather" : "Cerah"},
+    {"code" : 1, "weather" : "Cerah Berawan"},
+    {"code" : 2, "weather" : "Cerah Berawan"},
+    {"code" : 3, "weather" : "Berawan"},
+    {"code" : 4, "weather" : "Berawan Tebal"},
+    {"code" : 5, "weather" : "Udara Kabur"},
+    {"code" : 10, "weather" : "Asap"},
+    {"code" : 45, "weather" : "Kabut"},
+    {"code" : 60, "weather" : "Hujan Ringan"},
+    {"code" : 61, "weather" : "Hujan Sedang"},
+    {"code" : 63, "weather" : "Hujan Lebat"},
+    {"code" : 80, "weather" : "Hujan Lokal"},
+    {"code" : 95, "weather" : "Hujan Petir"},
+    {"code" : 95, "weather" : "Hujan Petir"},
+]
